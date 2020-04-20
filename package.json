@@ -156,9 +156,7 @@
       "cordova-plugin-androidx": {},
       "cordova-plugin-device": {},
       "cordova-plugin-androidx-adapter": {},
-      "cordova-plugin-geolocation": {
-        "GOOGLE_SERVICES_VERSION": "17.0.+"
-      },
+      "cordova-plugin-geolocation": {},
       "onesignal-cordova-plugin": {},
       "cordova-plugin-googleplus": {
         "REVERSED_CLIENT_ID": "YOUR_REVERSED_CLIENT_ID",

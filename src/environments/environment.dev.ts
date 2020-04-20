@@ -1,20 +1,20 @@
 export const environment = {
   production: false,
-  serverUrl: 'https://nearmev5.quanlabs.com/api',
+  serverUrl: 'http://localhost:3000/api',
   appUrl: 'https://trynearme.app',
   appImageUrl: 'https://trynearme.app/assets/img/nearme.png',
-  appId: 'YOUR_APP_ID',
-  fbId: 'YOUR_FB_ID',
-  googleMapsApiKey: 'YOUR_GOOGLE_MAPS_API_KEY',
+  appId: 'myAppId',
+  fbId: '231246621549915',
+  googleMapsApiKey: 'AIzaSyAmdGy9qMo3wPAfhY5LdbDEDeUl8O1A6ng',
   androidHeaderColor: '#d82c6b',
-  defaultUnit: 'mi',
+  defaultUnit: 'km',
   defaultLang: 'en',
-  radiusSearch: 0,
-  googleClientId: 'YOUR_GOOGLE_CLIENT_ID',
+  radiusSearch: 5,
+  googleClientId: '309499029770-miom31p06l24fb3ph37ofirc607e60f5.apps.googleusercontent.com',
   oneSignal: {
-    appId: 'YOUR_ONESIGNAL_APP_ID',
-    googleProjectNumber: 'YOUR_GOOGLE_PROJECT_NUMBER'
+    appId: 'e6e4c771-ffde-4237-832e-88c3f27d4219',
+    googleProjectNumber: 'BBXCFctjxdKrgN5iXyT57D6at4YPX-mqYCxQx71aIP_Zt0zbKjmoPa-tknLXwy4SLJ2OP8cmPT5AWbrJxDwj-aQ'
   },
 };
 
-import 'zone.js/dist/zone-error';  // Included with Angular CLI.
+import 'zone.js/dist/zone-error';

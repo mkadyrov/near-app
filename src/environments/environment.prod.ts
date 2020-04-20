@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  serverUrl: 'http://52.39.105.242:3000/api',
+  serverUrl: 'https://api.bookzal.kz/api',
   appUrl: 'https://bookzal.kz',
   appImageUrl: 'https://trynearme.app/assets/img/nearme.png',
   appId: 'myAppId',
